@@ -1,2 +1,2 @@
-# iamrivu.github.io
-Profile Card | Soumik Bhattacharya
+# Profile Card
+### Soumik Bhattacharya | https://iamrivu.github.io/
