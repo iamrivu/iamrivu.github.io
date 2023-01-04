@@ -1,5 +1,5 @@
 ```sh
 Soumik Bhattacharya | Profile Card
 ```
-`<link>` : <https://isoumik.tech/>
+`<link>` : <https://itechie.in/>
 `<link>` : <https://iamrivu.github.io/>
